@@ -1,8 +1,8 @@
 # 18650
->This repository contains my research on what Li-ion batteries are, how they work and how i created a battery managment system for them to provide details of and maintain the following:
->* The battery safety / longevity
->* Cell calibration (temperature / cell imbalance) 
->* To indicate end-of-life when the capacity fails below user-set target threshold.
+>This repository contains my research on what Li-ion batteries are, how they work and how i created a battery managment system for these cells must have the following components in-order to charge/discharge the li-ion battery saftely:
+>* Overcharge
+>* Over-discharge
+>* Discharge too quickly
 
 ## What is 18650
 >Its a secret, do not tell anyone. They are lithium ion batteries.
