@@ -9,6 +9,7 @@ li-ion batteries are highly dangerous. They can catch fire or explode if mishand
 
 ## Content
 * [Introduction](Intro/main.md)
+# [Terms](Terms/main.md)
 * [Application](Application/main.md)
 * [Resources](Resource/main.md)
 
