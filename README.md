@@ -9,11 +9,12 @@ li-ion batteries are highly dangerous. They can catch fire or explode if mishand
 
 ## Content
 * [Introduction](Intro/main.md)
+* [Terms](Terms/main.md)
 * [Application](Application/main.md)
 * [Resources](Resource/main.md)
 
 ## What is 18650
->Its a secret, do not tell anyone. They are lithium ion batteries.
+>Its a secret🤫, do not tell anyone. They are lithium ion batteries.
 - Lithium ion battery is an advanced battery technology that uses lithium ions as key component of its electrochemical reaction.
 - I will discuss about the process in detail in the respective topic guide.
 - Right now just remember that the lithium ions move from the negative electrode through an electrolyte to the positive electrode during discharge, and back when charging.
@@ -47,6 +48,9 @@ For more information [click here](https://en.wikipedia.org/wiki/Lithium-ion_batt
 Due to the advantages the li-ion batteries have displace the Ni-Cd batteries in portable electronic devices like laptops and smart phones.
 
 These batteries are also help in millitary and aerospace applications.
+
+## [Github Profile](github.com/sarankirthic)
+Explore my GitHub repo's for more content like this.
 
 ## Reference
 [Clean Energy Institute - Lithium-ion Battery](https://www.cei.washington.edu/education/science-of-solar/battery-technology/).
