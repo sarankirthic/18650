@@ -54,3 +54,5 @@ Explore my GitHub repo's for more content like this.
 
 ## Reference
 [Clean Energy Institute - Lithium-ion Battery](https://www.cei.washington.edu/education/science-of-solar/battery-technology/).
+
+## BYE!
