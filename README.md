@@ -49,8 +49,10 @@ Due to the advantages the li-ion batteries have displace the Ni-Cd batteries in 
 
 These batteries are also help in millitary and aerospace applications.
 
-## [Github Profile](github.com/sarankirthic)
+## [Github Profile](@sarankirthic)
 Explore my GitHub repo's for more content like this.
 
 ## Reference
 [Clean Energy Institute - Lithium-ion Battery](https://www.cei.washington.edu/education/science-of-solar/battery-technology/).
+
+## BYE!
